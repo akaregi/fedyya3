@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <p>(C) 2020 AKANE AKAGI. Licensed under CC BY-SA 4.0 International.</p>
+    <p>(C) 2020 AKANE AKAGI. Licensed under CC BY-ND 4.0 International.</p>
   </div>
 </template>
 
