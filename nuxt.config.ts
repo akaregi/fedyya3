@@ -36,8 +36,7 @@ export default {
   components: true,
 
   buildModules: [
-    '@nuxt/typescript-build',
-    '@nuxtjs/stylelint-module'
+    '@nuxt/typescript-build'
   ],
 
   modules: [
