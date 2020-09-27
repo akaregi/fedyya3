@@ -21,18 +21,37 @@
 </template>
 
 <style scoped>
-  ul {
-    display: flex;
-    margin: 0;
-    padding: 0;
-  }
+nav {
+  font-size: 16px;
+}
 
-  li {
-    list-style-type: none;
-    margin-right: 1rem;
-  }
+ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
 
-  ul li:first-child {
-    margin-right: auto;
-  }
+li {
+  list-style-type: none;
+  margin-right: 1rem;
+}
+
+ul li:first-child {
+  margin-right: auto;
+}
+
+a {
+  padding: .8rem;
+
+  color: var(--text);
+}
+
+a:hover {
+  background-color: #fafafa;
+}
+
+a.nuxt-link-exact-active.nuxt-link-active {
+  color: var(--link);
+  font-weight: bold;
+}
 </style>

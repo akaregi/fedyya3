@@ -1,4 +1,5 @@
 :root {
+  --text: #4a4a4a;
   --link: #5425d4;
 }
 
@@ -9,12 +10,15 @@ body {
   font-feature-settings: "palt";
   font-size: 20px;
 
-  color: #4a4a4a;
+  color: var(--text);
   line-height: 1.47;
 
   max-width: 768px;
+
   margin: 0 auto;
   margin-top: 2rem;
+
+  padding: 0 2rem;
 }
 
 a {
