@@ -31,4 +31,4 @@ subtitle: 有耶無耶な何かの紹介
 ### *raipara-re ry* （意味：私の言語）
 
 独自の人工言語です。動詞に付く各種の修飾子で文構造を決定するのが特徴です。 *r3* と略したりもします。
-GitHub から[文法書がダウンロードできます](https://https://github.com/fedyya/r3/raw/master/r3.pdf)。
+GitHub から[文法書がダウンロードできます](https://github.com/fedyya/r3/raw/master/r3.pdf)。
